@@ -4,7 +4,7 @@ Code Repository for Data Analysis and Machine Learning with Kaggle, Published by
 <table class="noBorder">
   <tr>
     <td> 
-      <img src="https://github.com/PacktPublishing/Data-Analysis-and-Machine-Learning-with-Kaggle/blob/main/cover.jpg?raw=true"  alt="1">
+      <img src="https://github.com/PacktPublishing/Data-Analysis-and-Machine-Learning-with-Kaggle/blob/main/cover.png?raw=true"  alt="1">
     </td>
     <td valign="top">
       <H2>Key Features</H2>
