@@ -1,12 +1,24 @@
 # Data-Analysis-and-Machine-Learning-with-Kaggle
 Code Repository for Data Analysis and Machine Learning with Kaggle, Published by Packt
 
-Get a step ahead of your competitors with a concise collection of smart data handling and modeling techniques
+<table>
+  <tr>
+    <td> 
+      <img src="https://github.com/PacktPublishing/Data-Analysis-and-Machine-Learning-with-Kaggle/blob/main/cover.jpg?raw=true"  alt="1">
+    </td>
+    <td valign="top">
+      <H2>Key Features</H2>
+      <ul>
+      <li> Learn how Kaggle works and how to make <BR>the most of competitions from two expert Kagglers </li>
+      <li> Sharpen your modeling skills with ensembling,<BR>feature engineering, adversarial validation, AutoML,<BR>transfer learning, and techniques for parameter tuning </li>
+      <li> Discover tips, tricks, and best practices for winning<BR>on Kaggle and becoming a better data scientist </li>
+      <li> Read interviews with Kaggle Masters and Grandmasters<BR> telling about their experience and tips</li>
+      </ul>
+    </td>
+  </tr> 
+</table>
 
-## Key Features
-* Learn how Kaggle works and how to make the most of competitions from two expert Kagglers
-* Sharpen your modeling skills with ensembling, feature engineering, adversarial validation, AutoML, transfer learning, and techniques for parameter tuning
-* Discover tips, tricks, and best practices for winning on Kaggle and becoming a better data scientist
+<B><EM>Get a step ahead of your competitors with a concise collection of smart data handling and modeling techniques</EM></B>
 
 ## Book Description
 Millions of data enthusiasts from around the world compete on Kaggle, the most famous data science competition platform of them all. Participating in Kaggle competitions is a surefire way to improve your data analysis skills, network with the rest of the community, and gain valuable experience to help grow your career.
