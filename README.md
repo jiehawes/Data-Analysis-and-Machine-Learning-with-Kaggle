@@ -28,13 +28,15 @@ Whether you want to climb the ranks of Kaggle, build some more data science skil
 This book is suitable for Kaggle users and data analysts/scientists of all experience levels who are trying to do better in Kaggle competitions and secure jobs with tech giants.
 
 ## Table of Contents
-Part 1
+### Part 1
+
 1.	Introducing Kaggle and Other Data Science Competitions
 2.	Organizing Data with Datasets
 3.	Working and Learning with Kaggle Notebooks
 4.	Leveraging Discussion Forums
 
-Part 2
+### Part 2
+
 5.	Detailing Competition Tasks and Metrics
 6.	Designing Good Validation
 7.	Modeling for Tabular Competitions
@@ -44,6 +46,7 @@ Part 2
 11.	Modeling for NLP
 12.	Handling Simulation and Optimization Competitions
 
-Part 3
+### Part 3
+
 13.	Creating Your Portfolio of Projects and Ideas
 14.	Finding New Professional Opportunities
