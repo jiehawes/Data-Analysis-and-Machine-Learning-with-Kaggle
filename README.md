@@ -1,7 +1,7 @@
 # Data-Analysis-and-Machine-Learning-with-Kaggle
 Code Repository for Data Analysis and Machine Learning with Kaggle, Published by Packt
 
-<table>
+<table class="noBorder">
   <tr>
     <td> 
       <img src="https://github.com/PacktPublishing/Data-Analysis-and-Machine-Learning-with-Kaggle/blob/main/cover.jpg?raw=true"  alt="1">
