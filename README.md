@@ -9,10 +9,10 @@ Code Repository for Data Analysis and Machine Learning with Kaggle, Published by
     <td valign="top">
       <H2>Key Features</H2>
       <ul>
-      <li> Learn how Kaggle works and how to make <BR>the most of competitions from two expert Kagglers </li>
-      <li> Sharpen your modeling skills with ensembling,<BR>feature engineering, adversarial validation, AutoML,<BR>transfer learning, and techniques for parameter tuning </li>
-      <li> Discover tips, tricks, and best practices for winning<BR>on Kaggle and becoming a better data scientist </li>
-      <li> Read interviews with Kaggle Masters and Grandmasters<BR> telling about their experience and tips</li>
+      <li> Learn how Kaggle works and how to make the most of competitions from two expert Kagglers </li>
+      <li> Sharpen your modeling skills with ensembling, feature engineering, adversarial validation, AutoML, transfer learning, and techniques for parameter tuning </li>
+      <li> Discover tips, tricks, and best practices for winning on Kaggle and becoming a better data scientist </li>
+      <li> Read interviews with Kaggle Masters and Grandmasters telling about their experience and tips</li>
       </ul>
     </td>
   </tr> 
