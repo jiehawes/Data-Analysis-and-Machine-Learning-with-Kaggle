@@ -1,1 +1,1 @@
-# Modeling for NLP
+Simulation competitions
